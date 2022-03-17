@@ -1,1 +1,1 @@
-# rsschool-cv
+[посмотреть результат можно ТУТ](https://alexey-artsiush.github.io/rsschool-cv/cv)
