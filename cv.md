@@ -1,0 +1,2 @@
+Alexey Artsiush
+junior frontend developer
