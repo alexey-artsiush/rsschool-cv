@@ -1,1 +1,1 @@
-[посмотреть результат можно ТУТ](https://alexey-artsiush.github.io/rsschool-cv/cv)
+https://alexey-artsiush.github.io/rsschool-cv/cv
