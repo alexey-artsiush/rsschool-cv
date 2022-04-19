@@ -1,0 +1,32 @@
+.about { 
+  margin: 0 40px;
+
+  &__title {
+    text-align: left;
+  }
+
+  &__article  {
+    width: 430px;
+    margin-bottom: 25px;
+  }
+  
+}
+
+.about-wrapper {
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+  padding: 85px 0 100px;
+}
+
+.about-text, .about-image {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+}
+
+.about__image { 
+  margin-left: auto;
+  margin-right: auto;
+}
+

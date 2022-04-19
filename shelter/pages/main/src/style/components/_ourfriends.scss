@@ -1,0 +1,53 @@
+.our-friends {
+  background-color: #F6F6F6;
+}
+
+.our-friends-wrapper {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 0 100px 0;
+}
+
+.carousel {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 60px;
+
+  &__cart {
+    display: flex;
+    flex-direction: column;
+    background-color: #FAFAFA;
+    border-radius: 10px;
+  }
+
+  &__image {
+    border-radius: 10px;
+  }
+
+  &__nickname {
+    font-size: 20px;
+    margin: 30px auto;
+  }
+
+  &__button{
+    background-color: #fff;
+    border: solid #F1CDB3 2px;
+    margin: 0 45px 35px 45px
+  }
+
+  &__button-wrapper {
+    display: flex;
+  }
+
+  &__button-navigation {
+    background-color: #fff;
+    border: solid #F1CDB3 2px;
+    margin: auto auto;
+    padding: 23px;
+  }
+}
+
